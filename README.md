@@ -2,7 +2,7 @@
 SoniDB – En ljudbaserad vektordatabas för maskininlärning
 
 🧠 Vision
-Att skapa en ny typ av databas där vektorer lagras som ljud, distribueras via ljudoptimerade protokoll, och används direkt i maskininlärningsmodeller – med målet att överträffa traditionella databaser som CosmosDB i prestanda, skalbarhet och streamingeffektivitet.<br>
+Att skapa en ny typ av databas där vektorer lagras som ljud, distribueras via ljudoptimerade protokoll, och används direkt i maskininlärningsmodeller med målet att överträffa traditionella databaser som CosmosDB i prestanda, skalbarhet och streamingeffektivitet.<br>
 
 🔧 Teknisk Arkitektur<br>
 1. Vektor → Sonifiering → FLAC<br>
